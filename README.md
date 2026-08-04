@@ -1,7 +1,4 @@
 <div class="profile-container">
-    <p align="center">
-        <img src="https://api.boot.dev/v1/users/public/9f9a63dd-4113-4e24-8ceb-8327efe265cf/thumbnail" alt="Profile Thumbnail">
-    </p>
     <h1 align="center">Welcome to my world! 🚀</h1>
     <p align="center">
         <i>"Bug slayer, code lover, and a professional deadline runner."</i>
@@ -11,7 +8,7 @@
     <ul>
         <li>🔭 I’m currently working on open-source projects.</li>
         <li>🌱 I’m currently learning <b>Cloud Computing</b> and <b>AI Integration</b>.</li>
-        <li>💬 Ask me about: <b>JavaScript, Python, or how to stay sane while coding.</b></li>
+        <li>💬 Ask me about: <b>Java, Python, or how to stay sane while coding.</b></li>
         <li>⚡ Fun fact: I convert coffee into efficient code faster than any AI (just kidding!).</li>
     </ul>
     <p align="center" class="skills-container">
@@ -24,10 +21,10 @@
     <div class="stats-container">
         <h3>📊 GitHub Stats:</h3>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=phongphong1&show_icons=true&theme=radical" alt="GitHub Stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=letgaucook&show_icons=true&theme=radical" alt="GitHub Stats">
         </p>
         <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongphong1&theme=radical" alt="GitHub Streak">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=letgaucook&theme=radical" alt="GitHub Streak">
         </p>
     </div>
     <hr>
